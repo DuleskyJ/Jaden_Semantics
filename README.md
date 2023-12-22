@@ -1,5 +1,5 @@
 # Jaden_Semantics
-My Horiseon webpage submission for ASU bootcamp! I analyzed the original codes given through html and css files. Then changed certain elements depending on criteria to correct its semantic element(s). I also commented every change on a notepad which I'll list down below. 
+My Horiseon webpage submission for ASU bootcamp! I analyzed the original codes given through a develop folder with html and css files from Module 1. Then changed certain elements depending on criteria to correct its semantic element(s). I also commented every change on a notepad which I'll list down below. 
 
 [link to deployed applications] https://duleskyj.github.io/Jaden_Semantics/  
 
