@@ -13,8 +13,8 @@ Changed title to Horiseon Search Engine Optimzation to help more clicks/searches
 Added nav in HTML to create an organized block of links that'll navigate further down the site.
 Added functionality upon clicking Search Engine Optimization on the top header by adding an id to "#search-engine-optimization".
 Added footer tag to the bottom of HTML page so it is defined.
-Most of the divs I have made into <section> as I saw it most appropiate as they are their own respective sections on the page with their own heading.
-After switching out every <div> I personally orgnaized the index.html a bit further to decrease the amount of lines used for example with lines only dedicated to tags I removed those and put closing tags right after its content. 
+Most of the divs I have made into < section > as I saw it most appropiate as they are their own respective sections on the page with their own heading.
+After switching out every < div > I personally orgnaized the index.html a bit further to decrease the amount of lines used for example with lines only dedicated to tags I removed those and put closing tags right after its content. 
 
 -  I changed CSS selectors & properties to match any original or edited elements they would apply to...
 Deleted benefit brand & cost in stylesheet as all three classes had the same attributes.
