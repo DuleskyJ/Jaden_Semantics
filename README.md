@@ -10,7 +10,7 @@ My Horiseon webpage submission for ASU bootcamp! I analyzed the original codes g
 
 -  I renamed the div containers to replace with semantic HTML elements...
 -  Changed title to Horiseon Search Engine Optimzation to help more clicks/searches find what they're looking for.
--  Added nav in HTML to create an organized block of links that'll navigate further down the site.
+-  Added nav in HTML to create an organized segment of links that'll navigate further down the site.
 -  Added functionality upon clicking Search Engine Optimization on the top header by adding an id to "#search-engine-optimization".
 -  Added footer tag to the bottom of HTML page so it is defined.
 -  Most of the divs I have made into < section > as I saw it most appropiate as they are their own respective sections on the page with their own heading.
